@@ -2,17 +2,17 @@
 
 🔧 Aspiring Software Engineer | C/C++ Programmer | Computer Science & Engineering student <br/><br/>
 
-🌱 Currently learning the foundations of web development and programming: <br/>
+🌱 Currently learning the foundations of web development and programming: 
 - HTML, CSS, JavaScript <br/>
 - C and C++ <br/>
 - Exploring Git, GitHub, and secure coding practices <br/><br/>
 
-🚀 Goals: <br/>
+🚀 Goals: 
 - Build real-world projects <br/>
 - Learn Wab development <br/>
 - Understand secure user authentication systems <br/><br/>
 
-💡 Interests:<br/>
+💡 Interests:
 - competitive programming <br/>
 - Problem Solving <br/>
 - Open Source Collaboration & more ... <br/><br/>
