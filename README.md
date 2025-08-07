@@ -42,14 +42,9 @@
 Thank you for visiting my profile! <br/>
 Feel free to explore my repositories and connect with me. <br/><br/>
 ## 🌐 Socials:
+📫 Let's connect on: <br/>
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/bijit213_92735) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ok.bijit_213) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bijit-acharjee-753448379/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bijit213acharjee@gmail.com) <br/>
 🌟 Don't forget to ⭐️ my repositories if you find them helpful!
-
-📫 Let's connect on: <br/>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bijit-acharjee-753448379/) <br/>
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/ok.bijit-213/) <br/>
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:bijit213acharjee@gmail.com/) <br/>
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/bijit213_92735/) <br/><br/>
 
 
 
