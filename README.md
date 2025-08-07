@@ -37,7 +37,7 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-## 🙏 Thank You! <br/><br/>
+## 🙏 Thank You! <br/>
 
 Thank you for visiting my profile! <br/>
 Feel free to explore my repositories and connect with me. <br/><br/>
